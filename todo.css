@@ -1,0 +1,21 @@
+.Todo{
+   margin-left:24.5%;
+   margin-right:24.5%;
+    
+}
+@media only screen and (max-width: 600px) {
+   .Todo {
+   margin-left:10%;
+   margin-right:10%;
+     
+   }
+ }
+.head{
+  margin-bottom: 25px;
+  color:#f0ad4e;
+
+}
+body{
+  
+   background-color: rgb(20, 20, 20);
+}
